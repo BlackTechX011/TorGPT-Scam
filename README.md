@@ -1064,3 +1064,6 @@ ____
   - `%USERPROFILE%\AppData\Local\Temp\tmpE87B.tmp\8a45efc6-43dc-47c5-a83e-918ad0207457.dll`
   - `%USERPROFILE%\AppData\Local\Temp\tmpF57B.tmp\c9768aec-9e91-4ef8-a55d-c1d878e73bf7.dll`
 
+> [!NOTE]
+> ![](https://profile-counter.glitch.me/TorGPT-Scam/count.svg)
+
